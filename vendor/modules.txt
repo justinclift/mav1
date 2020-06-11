@@ -1,0 +1,8 @@
+# github.com/aler9/gomavlib v0.0.0-20200610030504-be37620b647e
+## explicit
+github.com/aler9/gomavlib
+github.com/aler9/gomavlib/dialects/ardupilotmega
+# github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
+github.com/tarm/serial
+# golang.org/x/sys v0.0.0-20190310054646-10058d7d4faa
+golang.org/x/sys/unix
